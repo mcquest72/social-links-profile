@@ -9,8 +9,8 @@ body{
 }
 
 .box{
-    background-color: beige;
-    max-width: 400px;
+    background-color: rgb(15, 15, 15);
+    max-width: 350px;
     margin: 100px auto;
     border-radius: 20px;
     padding: 30px;
@@ -26,16 +26,48 @@ body{
 p{
     text-align: center;
     text-transform: capitalize;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     padding: px;
+    color: rgb(170, 170, 64);
+    font-size: 14px;
+    margin-top: 10px;
 }
 
 h1{
     text-align: center;
     text-transform: capitalize;
+    color: white;
+    font-size: 20px;
 }
 
 .form-control>*{
     display: block;
     width: 320;
+}
+
+button {
+    background-color: #222324; color: #fff; 
+    display: block;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px 100px; 
+    border: black; 
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    width: 90%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#title{
+    color: white;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    font-size: 14px;
 }
