@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/mcquest72/social-links-profile
-- Live Site URL: https://mcquest72.github.io/social-links-profile/?
+- Live Site URL: https://mcquest72.github.io/social-links-profile
 
 ## My process
 
