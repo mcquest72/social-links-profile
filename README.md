@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/finished%20worked.png)
+![](./design/Trial.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/mcquest72/social-links-profile)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -91,8 +91,8 @@ I will like to continue focusing on responsive design in future projects. This c
 
 ## Author
 
-- Website - [Chicha Msughter Jerry](https://www.your-site.com)
-- Frontend Mentor - [@mcquest72](https://www.frontendmentor.io/profile/mcquest72
+- Author - [Chicha Msughter Jerry](https://www.your-site.com)
+- Frontend Mentor - [@mcquest72](https://www.frontendmentor.io/profile/mcquest72)
 - Twitter - [@mcquest72](https://www.twitter.com/mcquest72)
 
 
