@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/mcquest72/social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/mcquest72/social-links-profile
+- Live Site URL: https://mcquest72.github.io/social-links-profile/?
 
 ## My process
 
@@ -45,9 +45,9 @@ Users should be able to:
 
 ### What I learned
 
-My major learnings while working through this project concepts like selectors, buttons, anchor tags and mouse hovering.
+My major learnings while working through this project include the following concepts like selectors, buttons, anchor tags and mouse hovering.
 
-T code snippets, see below:
+See code snippets, below:
 
 ```html
 <button><a href="https://github.com/mcquest72" target="_blank">GitHub</a></button>
