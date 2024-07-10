@@ -100,4 +100,4 @@ I will like to continue focusing on responsive design in future projects. This c
 
 I wish to say a big thank you to Frontend Mentor for this wonderful challenge. It has really broaden my horizon on frontend developement, it has also helped me advance my knowleged in git and GitHub.
 
-I wish to also thank my mentor @katfogy for his guidance of which without him, I wouldn't have known about frontend mentor, thank you boss.
+I wish to also thank my mentor [@katfogy](https://github.com/katfogy) for his guidance of which without him, I wouldn't have known about frontend mentor, thank you boss.
