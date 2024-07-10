@@ -4,22 +4,26 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: black;
     box-sizing: border-box;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
-.box{
+.box {
     background-color: rgb(15, 15, 15);
     max-width: 350px;
-    margin: 100px auto;
+    margin: auto;
     border-radius: 20px;
     padding: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.content{
+.content {
     display: block;
     margin: auto;
     height: 10vh;
@@ -96,10 +100,4 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.attribution {
-    padding-bottom: 50px;
-    color: chocolate;
-    text-align: center;
 }
