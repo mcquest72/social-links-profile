@@ -82,7 +82,7 @@ a{
 
 ### Continued development
 
-I will like to continue focusing on responsive design in future projects. This concepts is new to me and am not completely comfortable with it, although I found responsive design useful which is necessary skill for me to refine and perfect.
+I will like to continue focusing on responsive design in future projects. This concepts is new to me and am not completely comfortable with it, although I find responsive design very useful, which is a necessary skill for me to refine and perfect.
 
 
 ### Useful resources
@@ -91,7 +91,7 @@ I will like to continue focusing on responsive design in future projects. This c
 
 ## Author
 
-- Author - [Chicha Msughter Jerry](https://www.your-site.com)
+- Chicha Msughter Jerry - (https://www.your-site.com)
 - Frontend Mentor - [@mcquest72](https://www.frontendmentor.io/profile/mcquest72)
 - Twitter - [@mcquest72](https://www.twitter.com/mcquest72)
 
@@ -101,4 +101,3 @@ I will like to continue focusing on responsive design in future projects. This c
 I wish to say a big thank you to Frontend Mentor for this wonderful challenge. It has really broaden my horizon on frontend developement, it has also helped me advance my knowleged in git and GitHub.
 
 I wish to also thank my mentor @katfogy for his guidance of which without him, I wouldn't have known about frontend mentor, thank you boss.
-
