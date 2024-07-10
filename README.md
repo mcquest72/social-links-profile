@@ -91,7 +91,7 @@ I will like to continue focusing on responsive design in future projects. This c
 
 ## Author
 
-- Chicha Msughter Jerry - (https://www.your-site.com)
+- Chicha Msughter Jerry - [Persona](https://www.your-site.com)
 - Frontend Mentor - [@mcquest72](https://www.frontendmentor.io/profile/mcquest72)
 - Twitter - [@mcquest72](https://www.twitter.com/mcquest72)
 
